@@ -1,5 +1,5 @@
 # splc2020
-SPLC2020 conference modeling contents
+SPLC2020 conference modeling contents - Submission 45
 
 This repository contains the published domain case studies found in our submitted work to SPLC2020 (https://http://splc2020.net)
 Using [Clafer](http://clafer.org), v0.4.3, developed inside [ISC2 Project] (https://www.irt-systemx.fr/en/projets/isc/)
